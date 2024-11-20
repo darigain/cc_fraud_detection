@@ -74,7 +74,7 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 
 ---
 
-## Skills Demonstrated
+## Key Learnings
 - Data preprocessing and visualization using PySpark and Databricks.
 - Training and evaluating machine learning models (Logistic Regression, Random Forest).
 - Handling class imbalance in datasets.
