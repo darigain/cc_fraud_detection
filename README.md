@@ -67,8 +67,10 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
     - F1 Score: 0.84
 
 - **Visualizations**:
-  - **Feature Importance**: Highlights which features (like `V17`, `V14`, `Amount`) contribute most to the model.
+  - **Feature Importance**: Highlights which features contribute most to the model.
+  ![Feature Importance](https://github.com/darigain/cc_fraud_detection/blob/64c793516a1fa5c97a3149f459f9c0bedc1010aa/visuals/feature_importance.png)
   - **Confusion Matrix**: Demonstrates the model's ability to detect fraudulent transactions.
+  ![Confusion Matrix](https://github.com/darigain/cc_fraud_detection/blob/64c793516a1fa5c97a3149f459f9c0bedc1010aa/visuals/confusion_matrix.png)
 
 ---
 
@@ -77,4 +79,3 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 - Training and evaluating machine learning models (Logistic Regression, Random Forest).
 - Handling class imbalance in datasets.
 - Using key evaluation metrics (ROC AUC, Precision, Recall, F1 Score).
-- Collaborative workflows with Databricks.
