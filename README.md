@@ -40,8 +40,6 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 ## Project Workflow
 1. **Data Preprocessing**:
    - Handled missing values (if any).
-   - Scaled the `Amount` column.
-   - Binned the `Time` column for visualization.
    - Split the data into training, validation, and test sets.
 
 2. **Model Training**:
