@@ -56,15 +56,9 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 ## Key Results
 - **Random Forest** outperformed Logistic Regression:
   - **Validation Metrics**:
-    - ROC AUC: 0.98
-    - Precision: 0.78
-    - Recall: 0.85
-    - F1 Score: 0.81
+  ![validation_metrics](https://github.com/darigain/cc_fraud_detection/blob/64c793516a1fa5c97a3149f459f9c0bedc1010aa/visuals/validation_metrics.png)
   - **Test Metrics**:
-    - ROC AUC: 0.97
-    - Precision: 0.80
-    - Recall: 0.88
-    - F1 Score: 0.84
+  ![test_metrics](https://github.com/darigain/cc_fraud_detection/blob/64c793516a1fa5c97a3149f459f9c0bedc1010aa/visuals/test_metrics.png)
 
 - **Visualizations**:
   - **Feature Importance**: Highlights which features contribute most to the model.
